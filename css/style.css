@@ -222,20 +222,6 @@
     color: var(--primary);
 }
 
-.breadcrumbs h1,
-li,
-a {
-    color: #fff;
-}
-
-.breadcrumbs .breadcrumb .breadcrumb-item a {
-    color: #fff;
-}
-
-.breadcrumbs .breadcrumb .breadcrumb-item {
-    color: #fff;
-}
-
 /*** Facts ***/
 @media (min-width: 992px) {
     .container.facts {
